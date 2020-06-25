@@ -1,0 +1,5 @@
+Student "Alicja" "Akla" 21
+Student "Batrek" "Bodo" 20
+Student "Celina" "Czyzyk" 21
+Student "Damian" "Dab"  22
+Student "Eustachy" "Elo" 20
